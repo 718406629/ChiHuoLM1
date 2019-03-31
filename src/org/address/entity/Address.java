@@ -1,6 +1,6 @@
 package org.address.entity;
 public class Address {
-        //备注
+        //备注//
 	private int addressId;//地址编号
 	private String userName;//联系人
 	private String phone;//联系电话
